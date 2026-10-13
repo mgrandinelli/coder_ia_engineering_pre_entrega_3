@@ -1,0 +1,14 @@
+langchain>=1
+langchain-openai>=1
+langchain-anthropic>=1
+langchain-chroma>=1
+langchain-text-splitters>=1
+chromadb>=1
+openai>=1
+pydantic>=2.10
+python-dotenv>=1
+tiktoken>=0.9
+
+# Solo para correr los tests
+pytest>=8
+pytest-asyncio>=0.24
